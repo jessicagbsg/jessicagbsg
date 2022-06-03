@@ -6,7 +6,7 @@ I'm a Software Engeering student and former Architecture and Urbanism student, a
 
 * 🔭 I’m currently working on my personal project [Kof.](https://jessicagbsg.github.io/project-Kof./)
 * 🔭 I’m currently working on my personal project [Fantastic Flowers](https://jessicagbsg.github.io/project-FantasticFlowers/)
-* 🌱 I’m currently learning Javascript
+* 🌱 I’m currently learning ReactJS
 
 
 ### Stacks I feel comfortable:
