@@ -6,10 +6,8 @@ I'm a Software Engeering student and former Architecture and Urbanism student, a
 
 * 🔭 I’m currently working on my personal project [Kof.](https://jessicagbsg.github.io/project-Kof./)
 * 🔭 I’m currently working on my personal project [Fantastic Flowers](https://jessicagbsg.github.io/project-FantasticFlowers/)
-* 🌱 I’m currently learning ReactJS
 
-
-### Stacks I feel comfortable:
+### Stacks I have experience with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -17,8 +15,18 @@ I'm a Software Engeering student and former Architecture and Urbanism student, a
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white) 
 ![Boostrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
+
 ### Stacks I know the basics:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+### Stacks I'm currently learning:
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+
 
 ### Get in touch:
 <a href="mailto:jessicagbsg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
