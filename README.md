@@ -12,19 +12,20 @@ I'm a Software Engeering student and former Architecture and Urbanism student, a
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white) 
 ![Boostrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Webpack](https://img.shields.io/badge/WebPack-8ED6FB?style=for-the-badge&logo=webpack&logoColor=black)
 
 
 ### Stacks I know the basics:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-037F8C?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
 ### Stacks I'm currently learning:
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 
 
