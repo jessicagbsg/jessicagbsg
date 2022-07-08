@@ -17,7 +17,7 @@ I'm a Software Engeering student and former Architecture and Urbanism student, a
 ### Stacks I know the basics:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
