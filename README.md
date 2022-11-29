@@ -6,10 +6,12 @@ I'm a Software Engeering student and former Architecture and Urbanism student, a
 
 ### Stacks I have experience with:
 
-Ruby on Rails | React JS | Typescript | Styled Components | HTML 5 | CSS 3 | SASS - SCSS | Bootstrap 5
-Javascript ES6+ | Node JS | Express JS | Postgresql
-APIs REST | test with Rspec |
+Ruby on Rails | test with Rspec | Postgresql | Postman | PgAdmin | Docker
+
+Javascript ES6+ | Node JS | Express JS |  React JS | Typescript | Styled Components 
+
 GIT | Gitflow | Scrum 
+
 
 
 ### Stacks I'm currently learning:
