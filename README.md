@@ -6,27 +6,15 @@ I'm a Software Engeering student and former Architecture and Urbanism student, a
 
 ### Stacks I have experience with:
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white) 
-![Boostrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Webpack](https://img.shields.io/badge/WebPack-8ED6FB?style=for-the-badge&logo=webpack&logoColor=black)
-
-
-### Stacks I know the basics:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-037F8C?style=for-the-badge&logo=mysql&logoColor=white)
-
+Ruby on Rails | React JS | Typescript | Styled Components | HTML 5 | CSS 3 | SASS - SCSS | Bootstrap 5
+Javascript ES6+ | Node JS | Express JS | Postgresql
+APIs REST | test with Rspec |
+GIT | Gitflow | Scrum 
 
 
 ### Stacks I'm currently learning:
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-
+Ruby on Rails - API
 
 
 ### Get in touch:
