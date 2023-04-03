@@ -2,7 +2,6 @@
 
 Passionate about learning, coffee and puzzles, yes, I'm that weirdo who likes puzzles.
 
-I'm a Software Engeering student and former Architecture and Urbanism student, and as much as you may think they are nothing alike, trust me, they have a lot in common. 
 
 ### Stacks I have experience with:
 
