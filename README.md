@@ -5,17 +5,11 @@ Passionate about learning, coffee and puzzles, yes, I'm that weirdo who likes pu
 
 ### Stacks I have experience with:
 
-Ruby on Rails | test with Rspec | Postgresql | Postman | PgAdmin | Docker
+Ruby on Rails | Ruby on Rails - API | test with Rspec | Postgresql | Postman | PgAdmin | Docker
 
-Javascript ES6+ | Node JS | Express JS |  React JS | Typescript | Styled Components 
+Javascript ES6+ | Node JS | Express JS |  Nest JS |  React JS | Typescript | Styled Components 
 
 GIT | Gitflow | Scrum 
-
-
-
-### Stacks I'm currently learning:
-
-Ruby on Rails - API
 
 
 ### Get in touch:
